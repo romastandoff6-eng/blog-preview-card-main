@@ -65,6 +65,11 @@ a {
     color: #111;
     margin-bottom: 12px;
     display: inline-flex;
+    transition: 0.3s;
+}
+
+.card-blog__category:hover {
+    background: #e2c045;
 }
 
 .card-blog__date {
